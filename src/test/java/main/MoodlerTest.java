@@ -7,12 +7,12 @@ import java.io.IOException;
 public class MoodlerTest {
 
     private final String username = "kaspar_p";
-    private final String correctPassword = "5202436kapu";
+    private final String correctPassword = "iaefa093rdjdd982";
     private final String incorrectPassword = "adobe123";
 
 /*
     public static void main(String[] args) throws IOException {
-        Moodler moodler = new Moodler("kaspar_p", "5202436kapu");
+        Moodler moodler = new Moodler("kaspar_p", "iaefa093rdjdd982");
         System.out.println("Login successful: " + moodler.login());
         Course course = moodler.courseByName("disk");
         if(course == null) {
