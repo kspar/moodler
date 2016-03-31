@@ -53,9 +53,7 @@ public class Moodler {
     }
 
     public static void main(String[] args) throws IOException {
-        Moodler moodler = new Moodler("kaspar_p", "5202436kapu");
-        moodler.login();
-        System.out.println(moodler.courseByName("algoritmid"));
+
     }
 
     public boolean login() throws IOException {
